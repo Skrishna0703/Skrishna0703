@@ -10,9 +10,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C7E6&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Competitive+Programmer;AI+and+DS+Enthusiast;Lifelong+Learner;Open+Source+Contributor" />  
 </p>  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
-</p>  
+
 
 
 ## 👨‍💻 **About Me**  
@@ -34,12 +32,12 @@
 
 ### 📚 **Libraries & Frameworks**  
 <p align="center">  
-  <img src="https://skillicons.dev/icons?i=js,nodejs,vite,react,bootstrap,express" />  
+  <img src="https://skillicons.dev/icons?i=js,nodejs,vite,react,bootstrap,express,tailwind" />  
 </p>  
 
 ### ⚡ **Tools & Platforms**  
 <p align="center">  
-  <img src="https://skillicons.dev/icons?i=git,vscode,github,postman,androidstudio" />  
+  <img src="https://skillicons.dev/icons?i=git,vscode,github,postman,androidstudio,wordpress" />  
 </p>  
 
 ### 🗄 **Databases**  
