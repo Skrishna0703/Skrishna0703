@@ -82,10 +82,10 @@
 
 ## 🌎 **Connect With Me**  
 <p align="center">
-  <a href="https://www.linkedin.com/in/shrikrishna-sutar/" target="_blank">
+  <a href="www.linkedin.com/in/shrikrishna-sutar-3b601524b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:shrikrishna.sutar@example.com">
+  <a href="mailto:shrikrishnasutar0703@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Skrishna0703" target="_blank">
@@ -103,8 +103,3 @@
 
 ---
 
-### 🎯 **Let’s Build Something Awesome Together! 🚀**  
-
----
-
-💡 **Need more modifications? Let me know!** 😃
