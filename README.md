@@ -37,7 +37,7 @@
 
 ### ⚡ **Tools & Platforms**  
 <p align="center">  
-  <img src="https://skillicons.dev/icons?i=git,vscode,github,postman,androidstudio,wordpress" />  
+  <img src="https://skillicons.dev/icons?i=git,vscode,github,postman,androidstudio,wordpress,cursor" />  
 </p>  
 
 ### 🗄 **Databases**  
